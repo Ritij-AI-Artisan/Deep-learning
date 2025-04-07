@@ -1,6 +1,6 @@
 # Reservoir Computing Implementation
 
-This project implements a basic **Reservoir Computing** model using a single Python script.
+This project implements a basic **Reservoir Computing** model.
 
 Reservoir Computing is a type of **recurrent neural network (RNN)** where only the output layer is trained. It is especially effective for time-series prediction tasks because the reservoir (a fixed, randomly connected network) nonlinearly transforms inputs into a high-dimensional space.
 
